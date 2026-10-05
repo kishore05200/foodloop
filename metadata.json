@@ -1,0 +1,6 @@
+{
+  "name": "FoodLoop",
+  "description": "Turning Surplus Food Into Opportunity. Buy quality surplus food at up to 75% off while helping prevent food waste.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
